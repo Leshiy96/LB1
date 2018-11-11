@@ -1,0 +1,10 @@
+var
+a
+b
+integer
+c
+begin
+repeat
+until
+or
+end
